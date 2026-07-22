@@ -14,10 +14,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yatenarora.site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yatenarora.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaten--arora-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaten-arora)
+[![Portfolio](https://portfolio-sigma-flax-24.vercel.app/)](https://yatenarora.site)
+[![LinkedIn](https://www.linkedin.com/in/yaten-arora/)](https://linkedin.com/in/yaten-arora)
 [![Gmail](https://img.shields.io/badge/Email-arorayatin005%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorayatin005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YatenArora05-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YatenArora05)
+[![GitHub](https://github.com/YatenArora05/)](https://github.com/YatenArora05)
 
 <br/>
 
