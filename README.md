@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-yatenarora.site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sigma-flax-24.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yaten--arora-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaten-arora)
 [![Gmail](https://img.shields.io/badge/Email-arorayatin005%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arorayatin005@gmail.com)
-[![GitHub](https://github.com/YatenArora05/)](https://github.com/YatenArora05)
+[![GitHub](https://img.shields.io/badge/Github-YatenArora05-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/YatenArora05)
 
 <br/>
 
